@@ -1,5 +1,5 @@
 # Olá, me chamo Lucas Leite Carlos :exclamation::smile:
-- :school_satchel: Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP (1º semestre).
+- :school_satchel: Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP (1º semestre).
 - :office: Estou procurando um estágio na área o quanto antes, para adquirir experiência.
 - :bulb: Sempre procuro aprender cada vez mais e gosto muito de aprender.
 - ⚡ Sou dedicado, esforçado, centrado e sempre buscando melhorar.
