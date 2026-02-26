@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/lucas-leite-carlos-5b72973a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Leite-1309/Leite-1309/blob/output/github-contribution-grid-snake.svg)
 
 
 
