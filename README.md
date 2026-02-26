@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/lucas-leite-carlos-5b72973a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Leite-1309)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
