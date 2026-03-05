@@ -4,6 +4,7 @@
 - :bulb: Sempre procuro aprender cada vez mais e gosto muito de aprender.
 - ⚡ Sou dedicado, esforçado, centrado e sempre buscando melhorar.
 - :scroll: Possuo inglês avançado certificado por Cambridge.
+- 🤓 Aqui posto a minha evolução e projetos pessoais.
 
 # Ferramentas e tecnologia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/> 
