@@ -16,6 +16,10 @@
   <img src="https://skillicons.dev/icons?i=java,mysql" />
 </div>
 
+# GitHub Stats:
+![](https://streak-stats.demolab.com/?user=Leite-1309&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Leite-1309&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 # Contatos:
 <div>
 <a href="https://www.instagram.com/leite_lucas13?igsh=MWVleW1qMWkzZnR2Mg%3D%3D&utm_source=qr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
