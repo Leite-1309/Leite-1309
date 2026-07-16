@@ -1,5 +1,5 @@
 # Olá, me chamo Lucas Leite Carlos :exclamation::smile:
-- :school_satchel: Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP (1º semestre).
+- :school_satchel: Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FIAP (2º semestre).
 - :office: Estou procurando um estágio na área o quanto antes, para adquirir experiência.
 - :bulb: Sempre procuro aprender cada vez mais e gosto muito de aprender.
 - ⚡ Sou dedicado, esforçado, centrado e sempre buscando melhorar.
@@ -8,16 +8,10 @@
 
 # Ferramentas e tecnologia
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,html,css,python" />
-</div>
-
-# Estou aprendendo
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,html,css,python,java,mysql" />
 </div>
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Leite-1309&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Leite-1309&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Contatos:
