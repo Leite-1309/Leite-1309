@@ -8,7 +8,7 @@
 
 # Ferramentas e tecnologia
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,html,css,python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,html,css,python,java,mysql,nodejs,react,ts" />
 </div>
 
 # GitHub Stats:
