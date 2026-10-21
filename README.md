@@ -18,8 +18,17 @@
 
 ## 🛠️ Ferramentas e tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,ts,html,css,python,java,mysql,nodejs,react,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,ts,html,css,python,java,cs,mysql,nodejs,react,pandas,numpy" />
 </div>
+
+## 🚀 Projetos em destaque
+<div align="center">
+  <a href="https://github.com/globalsolution-2026-atmos/java-gs-Atmos">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=globalsolution-2026-atmos&repo=java-gs-Atmos&theme=dark" />
+  </a>
+</div>
+
+> Atmos: sistema em Java (POO) que simula o monitoramento por satélites SAR para previsão de desastres naturais (Global Solution FIAP 2026).
 
 ## 📊 GitHub Stats
 <div align="center">
