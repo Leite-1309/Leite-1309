@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=160&section=header&text=Lucas%20Leite&fontSize=40&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=160&section=header&text=Lucas&fontSize=40&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
@@ -21,14 +21,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,ts,html,css,python,java,cs,mysql,nodejs,react,pandas,numpy" />
 </div>
 
-## 🚀 Projetos em destaque
-<div align="center">
-  <a href="https://github.com/globalsolution-2026-atmos/java-gs-Atmos">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=globalsolution-2026-atmos&repo=java-gs-Atmos&theme=dark" />
-  </a>
-</div>
-
-> Atmos: sistema em Java (POO) que simula o monitoramento por satélites SAR para previsão de desastres naturais (Global Solution FIAP 2026).
 
 ## 📊 GitHub Stats
 <div align="center">
