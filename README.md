@@ -33,12 +33,7 @@
 ## 📈 Resumo do perfil
 <div align="center">
   <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
   <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
-</div>
 
 ## 🐍 Contribuições
 <div align="center">
