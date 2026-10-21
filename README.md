@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=160&section=header&text=Lucas&fontSize=40&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=160&section=header&text=Lucas%20Leite&fontSize=40&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
@@ -21,32 +21,27 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,js,ts,html,css,python,java,mysql,nodejs,react,pandas,numpy" />
 </div>
 
-## 🚀 Projetos em destaque
-<div align="center">
-  <a href="https://github.com/globalsolution-2026-atmos/java-gs-Atmos">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=globalsolution-2026-atmos&repo=java-gs-Atmos&theme=dark" />
-  </a>
-</div>
-
-> Atmos: sistema em Java (POO) que simula o monitoramento por satélites SAR para previsão de desastres naturais (Global Solution FIAP 2026).
-
 ## 📊 GitHub Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api/?username=Leite-1309&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Leite-1309&theme=dark&layout=compact&count_private=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Leite-1309&theme=dark&hide_border=true" />
-  <br/>
 </div>
 
-## 🏆 Troféus
+## 📈 Resumo do perfil
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leite-1309&theme=discord&no-frame=true&column=7" />
+  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </div>
 
 ## 🐍 Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/output/github-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Leite-1309/Leite-1309/output/github-snake-dark.svg" alt="snake" />
 </div>
 
 ## 📫 Contatos
